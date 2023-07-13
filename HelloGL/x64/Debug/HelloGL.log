@@ -1,0 +1,12 @@
+﻿GLUTCallbacks.obj : error LNK2019: unresolved external symbol __imp_glutTimerFunc referenced in function "void __cdecl GLUTCallbacks::Timer(int)" (?Timer@GLUTCallbacks@@YAXH@Z)
+HelloGL.obj : error LNK2001: unresolved external symbol __imp_glutTimerFunc
+GLUTCallbacks.obj : error LNK2019: unresolved external symbol __imp_glutGet referenced in function "void __cdecl GLUTCallbacks::Timer(int)" (?Timer@GLUTCallbacks@@YAXH@Z)
+HelloGL.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function "public: void __cdecl HelloGL::InitGL(void)" (?InitGL@HelloGL@@QEAAXXZ)
+HelloGL.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function "public: __cdecl HelloGL::HelloGL(int,char * * const)" (??0HelloGL@@QEAA@HQEAPEAD@Z)
+HelloGL.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "public: void __cdecl HelloGL::Update(void)" (?Update@HelloGL@@QEAAXXZ)
+HelloGL.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "public: void __cdecl HelloGL::Display(void)" (?Display@HelloGL@@QEAAXXZ)
+HelloGL.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function "public: void __cdecl HelloGL::InitGL(void)" (?InitGL@HelloGL@@QEAAXXZ)
+HelloGL.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+HelloGL.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+freeglut.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+F:\Semester 2\HelloGL\x64\Debug\HelloGL.exe : fatal error LNK1120: 9 unresolved externals

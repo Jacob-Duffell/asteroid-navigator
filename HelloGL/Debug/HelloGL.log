@@ -1,0 +1,48 @@
+﻿  Texture2D.cpp
+  SceneObject.cpp
+  Player.cpp
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\player.cpp(13): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\player.cpp(24): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\player.cpp(25): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\player.cpp(26): warning C4305: '=': truncation from 'double' to 'float'
+  Planet.cpp
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\planet.cpp(13): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\planet.cpp(24): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\planet.cpp(25): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\planet.cpp(26): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\planet.cpp(29): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\planet.cpp(30): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\planet.cpp(31): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\planet.cpp(32): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\planet.cpp(42): warning C4150: deletion of pointer to incomplete type 'GLUquadric'; no destructor called
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\gl\glu.h(163): note: see declaration of 'GLUquadric'
+  MeshLoader.cpp
+  main.cpp
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\main.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Logo.cpp
+  LinkedList.cpp
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\linkedlist.cpp(37): warning C4477: 'printf' : format string '%5d' requires an argument of type 'int', but variadic argument 1 has type 'SceneObject *'
+  HelloGL.cpp
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\hellogl.cpp(85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\hellogl.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\hellogl.cpp(146): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\hellogl.cpp(147): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\hellogl.cpp(148): warning C4305: '=': truncation from 'double' to 'float'
+  GLUTCallbacks.cpp
+  Background.cpp
+  Asteroid.cpp
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\asteroid.cpp(13): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\asteroid.cpp(19): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\asteroid.cpp(20): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\asteroid.cpp(21): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\asteroid.cpp(24): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\asteroid.cpp(25): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\asteroid.cpp(26): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\asteroid.cpp(29): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\asteroid.cpp(30): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\asteroid.cpp(31): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\asteroid.cpp(94): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\asteroid.cpp(95): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jacob\documents\games_programming_year_1\semester 2\hellogl - (final)\hellogl\asteroid.cpp(96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  HelloGL.vcxproj -> C:\Users\jacob\Documents\Games_Programming_Year_1\Semester 2\HelloGL - (Final)\Debug\HelloGL.exe
